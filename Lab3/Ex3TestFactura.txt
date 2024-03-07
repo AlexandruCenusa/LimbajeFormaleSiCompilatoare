@@ -1,0 +1,4 @@
+Client: Jane Smith
+Produs: Laptop, Pret: abc, TVA: 19%, Cantitate: 1
+Produs: Mouse, Pret: 35.50, TVA: 19%, Cantitate: 2
+Produs: Tastatura, Pret: 70.00, TVA: 19%, Cantitate: 1

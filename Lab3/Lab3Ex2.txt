@@ -1,0 +1,12 @@
+G^(q0, aabbcc) 	= G(G^(q0, aabbc), c)
+				= G(G(G^(q0, aabb), c), c)
+				= G(G(G(G^(q0, aab), b), c), c)
+				= G(G(G(G(G^(q0, aa), b), b), c), c)
+				= G(G(G(G(G(G^(q0, a), a), b), b), c), c)
+				= G(G(G(G(G(G(q0, a), a), b), b), c), c)
+				= G(G(G(G(G(q1, a), b), b), c), c)				
+				= G(G(G(G(q1, b), b), c), c)
+				= G(G(G(q2, b), c), c)
+				= G(G(q1, c), c)
+				= G(q1, c)
+				= q1 - Nu este starea finala. Nu este in limbaj
